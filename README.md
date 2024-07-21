@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Lavania</h1>
 <h3 align="center">A passionate programmer who loves JavaScript.</h3>
 
-- 🔭 I’m currently programming in **C# and JS**
+- 🔭 I’m currently programming in **JAVA and JS**
 
 - 🌱 I’m currently learning **JAVA, JAVA CORE and JavaScript**
 
