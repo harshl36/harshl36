@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently programming in **C# and JS**
 
-- 🌱 I’m currently learning **.NET core, .NET Framework**
+- 🌱 I’m currently learning **JAVA, JAVA CORE and JavaScript**
 
 - 💬 Ask me about **Javascript**
 
