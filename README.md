@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-lavania-1a9089203?originalsubdomain=in&original_referer=https%3a%2f%2fwww.google.com%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-lavania-1a9089203?originalsubdomain=in&original_referer=https%3a%2f%2fwww.google.com%2f" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshl36&" alt="Harsh's Strak" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshl36&show_icons=true&locale=en&layout=compact" alt="harshl36" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
